@@ -1,6 +1,6 @@
 """Creating a function that counts all words in a text and lists them by their usage."""
 
-__author__ = "730478722"
+__author__ = "Lucas Siegel"
 
 
 def check_word(word: str, count: dict[str, int]) -> bool:
